@@ -1,0 +1,120 @@
+a {
+    color: yellow;
+}
+.word{
+position: absolute;
+left: 600px;
+top: 250px;
+color: black;
+font-size:25px;
+}
+
+.pic{
+position: absolute;
+left: 600px;
+top: 50px;
+
+}
+
+
+.co{
+position: absolute;
+left: 350px;
+top: 570px;
+font-size:20px;
+color: red;
+}
+
+.a1{
+position: absolute;
+left: 600px;
+top: 620px;
+font-size:20px;
+}
+
+.a2{
+position: absolute;
+left: 690px;
+top: 620px;
+font-size:20px;
+}
+
+.pic4{
+position: absolute;
+left: 400px;
+top: 300px;
+color: white;
+font-size:25px;
+}
+
+.pic5{
+position: absolute;
+left: 620px;
+top: 300px;
+color: white;
+font-size:25px;
+}
+
+.pic6{
+position: absolute;
+left: 850px;
+top: 300px;
+color: white;
+font-size:25px;
+}
+
+.pic7{
+position: absolute;
+left: 1070px;
+top: 300px;
+color: white;
+font-size:25px;
+}
+
+.gal{
+position:absolute;
+top: 620px;
+left:970px;
+font-size:20px;
+}
+
+.gal1{
+position:absolute;
+top: 620px;
+left:1050px;
+font-size:20px;
+}
+
+.a3{
+position:absolute;
+top: 620px;
+left:830px;
+font-size:20px;
+}
+
+.a4{
+position:absolute;
+top: 620px;
+left:828px;
+font-size:20px;
+}
+.abo{
+position:absolute;
+top: 620px;
+left:980px;
+font-size:20px;
+}
+
+.pico{
+position:absolute;
+top: 300px;
+left:150px;
+font-size:20px;
+}
+
+.l{
+	position:absolute;
+	top:60px;
+	color:white;
+	font-size:40px;
+}
